@@ -1,6 +1,6 @@
 # Machine Learning Class Assignments
 
-Programming assignments solved in "Machine Learning" course (Andrew Ng, Standford University)
+Programming assignments solved in "Machine Learning" course (Andrew Ng, Stanford University)
 
 ## Programming Assignments
 * MP1: Linear Regression
