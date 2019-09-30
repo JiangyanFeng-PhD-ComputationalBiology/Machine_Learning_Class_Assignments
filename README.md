@@ -5,6 +5,7 @@ Programming assignments solved in "Machine Learning" course (Andrew Ng, Stanford
 ## Programming Assignments
 * MP1: Linear Regression
 * MP2: Logistic Regression
+* MP3: Multi-class Classification and Neural Networks
 
 
 ## Authors
